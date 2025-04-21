@@ -1,0 +1,2 @@
+C:\Users\Hoc vien\Desktop\TTNT\UCS\UCS\bin\Debug\UCS.exe.config
+C:\Users\Hoc vien\Desktop\TTNT\UCS\UCS\obj\Debug\UCS.csprojResolveAssemblyReference.cache
